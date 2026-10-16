@@ -4,6 +4,6 @@ OpenType shaping in portable Common Lisp, including a reader for
 
 |---------+------------------------------------------------------------|
 | source  | git:https://github.com/genworks/akshara.git               |
-| commit  | 0000000                                                    |
+| commit  | b8e9e6f                                                    |
 | systems | akshara akshara/pdf                                       |
 |---------+------------------------------------------------------------|
